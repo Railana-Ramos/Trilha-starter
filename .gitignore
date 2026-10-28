@@ -1,0 +1,11 @@
+# Pastas do Postman
+.postman/
+postman/
+
+# Dependências
+node_modules/
+
+# Arquivos de configuração solicitados
+package.json
+package-lock.json
+tsconfig.json
